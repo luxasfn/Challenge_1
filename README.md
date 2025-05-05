@@ -66,11 +66,18 @@ Este chatbot é um primeiro passo para fortalecer o relacionamento digital entre
 
 # referências
 https://github.com/takenet/blip-chat-widget
+
 https://pt.wikipedia.org/wiki/Furia_Esports#Hist%C3%B3ria_2
+
 https://draft5.gg/noticia/furia-confirma-adicao-de-yekindar
+
 https://theclutch.com.br/esports/furia-anuncia-adidas-como-nova-patrocinadora/
+
 https://valorantzone.gg/noticia/furia-lanca-novo-uniforme-em-parceria-com-adidas/
+
 https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2025/02/19/neymar-se-torna-presidente-da-furia-e-pode-cobrar-penalti-na-kings-league.ghtml
+
 https://adidas.furia.gg/
+
 https://gkpb.com.br/171935/my-hero-academia-furia/
 https://gamearena.gg/esports/valorant/game-changers-furia-paula-nobre-inclusiv/
