@@ -19,8 +19,8 @@ Personalização do comportamento do bot para refletir o tom e o estilo da FURIA
 
 # 💬 Canais Disponíveis
 Atualmente, o chatbot está disponível nos seguintes canais:
-BlipChat (web): https://lucas-ferreira-do-nascimento-vdc3q.chat.blip.ai/?appKey=ZnVyaW9zYTo4ZjFmYTU5ZS0wODkwLTQ3NTMtODA1ZC1hN2IxZmY4YzNhYTY=&_gl=1*1tu7ws9*_gcl_au*MTY5NTYzNTI0MS4xNzQ2Mzk0OTY2*_ga*MTY5NDg5NjI0My4xNzQ2Mzk0MTkx*_ga_8GVWK8YMGL*czE3NDY0MDg3MjgkbzEwJGcxJHQxNzQ2NDEwOTEwJGoyMyRsMCRoMTg4MDI0MjQ3
-Telegram: https://web.telegram.org/k/#@Lucas_Ferreira_Test_Bot
+[-BlipChat (web)](https://lucas-ferreira-do-nascimento-vdc3q.chat.blip.ai/?appKey=ZnVyaW9zYTo4ZjFmYTU5ZS0wODkwLTQ3NTMtODA1ZC1hN2IxZmY4YzNhYTY=&_gl=1*1tu7ws9*_gcl_au*MTY5NTYzNTI0MS4xNzQ2Mzk0OTY2*_ga*MTY5NDg5NjI0My4xNzQ2Mzk0MTkx*_ga_8GVWK8YMGL*czE3NDY0MDg3MjgkbzEwJGcxJHQxNzQ2NDEwOTEwJGoyMyRsMCRoMTg4MDI0MjQ3) 
+[-Telegram](https://web.telegram.org/k/#@Lucas_Ferreira_Test_Bot)
 
 Esses canais permitem fácil acesso aos torcedores e oferecem boa usabilidade em diferentes dispositivos.
 
