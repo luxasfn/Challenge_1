@@ -56,3 +56,21 @@ Essas regras ajudam a evitar alucinações e proteger a confiabilidade das respo
 
 ## ✅ Considerações Finais
 Este chatbot é um primeiro passo para fortalecer o relacionamento digital entre a FURIA e sua torcida. Com linguagem descontraída, conteúdo atualizado e tecnologia de ponta, a ideia é criar um canal oficial onde os FURIOSOS se sintam em casa — ou melhor, na arena!
+
+
+
+# Ferramentas utilizadas
+- NotebookLM para o refinamento dos textos da base
+- ChatGPT 4o para o refinamento dos textos da base
+- Plataforma Blip para criação do chatbot
+
+# referências
+https://github.com/takenet/blip-chat-widget
+https://pt.wikipedia.org/wiki/Furia_Esports#Hist%C3%B3ria_2
+https://draft5.gg/noticia/furia-confirma-adicao-de-yekindar
+https://theclutch.com.br/esports/furia-anuncia-adidas-como-nova-patrocinadora/
+https://valorantzone.gg/noticia/furia-lanca-novo-uniforme-em-parceria-com-adidas/
+https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2025/02/19/neymar-se-torna-presidente-da-furia-e-pode-cobrar-penalti-na-kings-league.ghtml
+https://adidas.furia.gg/
+https://gkpb.com.br/171935/my-hero-academia-furia/
+https://gamearena.gg/esports/valorant/game-changers-furia-paula-nobre-inclusiv/
