@@ -1,4 +1,6 @@
 # 📣 Challenge 1 – Chatbot da FURIA
+
+
 ## 🧠 Objetivo do Chatbot
 Este chatbot foi desenvolvido com o propósito de atender os torcedores e fãs da FURIA, oferecendo uma experiência interativa e informativa. O bot é capaz de:
 
