@@ -83,4 +83,4 @@ https://gkpb.com.br/171935/my-hero-academia-furia/
 
 https://gamearena.gg/esports/valorant/game-changers-furia-paula-nobre-inclusiv/
 
-[chatbot FURIA em BETA](Whatsapp: https://wa.me/5511993404466)
+[chatbot FURIA em BETA](https://wa.me/5511993404466)
