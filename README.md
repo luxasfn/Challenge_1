@@ -12,7 +12,7 @@ Este chatbot foi desenvolvido com o propósito de atender os torcedores e fãs d
 - A proposta é transformar o bot em um verdadeiro ponto de encontro digital para a comunidade FURIOSA, fortalecendo o vínculo entre time e torcida.
 
 ## ▶️ Video do chatbot funcionando
-[![Watch the video](https://youtu.be/aytrLy46hr8?si=5FXn9LnOTxAiEO1K)
+[Youtube](https://youtu.be/aytrLy46hr8?si=5FXn9LnOTxAiEO1K)
 
 ## 🛠️ Plataforma Utilizada
 O chatbot foi construído na plataforma Blip, integrando o AI Agent, uma solução da empresa que utiliza o motor do ChatGPT. Essa integração permite uma interação dinâmica e fluida, com múltiplas variações de resposta para uma mesma pergunta, desde que estejam previstas na base de conhecimento.
