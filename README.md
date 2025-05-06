@@ -1,5 +1,7 @@
 # 📣 Challenge 1 – Chatbot da FURIA
 
+## CASE
+No desenvolvimento do chatbot, foquei no case proposto com base na FURIA, onde a ideia era criar um bot para interagir com fãs e torcedores, especialmente do time de CS. No entanto, decidi expandir o escopo e propor um bot mais completo, que representasse todas as modalidades e frentes da organização, oferecendo uma experiência integrada e rica para o usuário.
 
 ## 🧠 Objetivo do Chatbot
 Este chatbot foi desenvolvido com o propósito de atender os torcedores e fãs da FURIA, oferecendo uma experiência interativa e informativa. O bot é capaz de:
